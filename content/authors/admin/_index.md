@@ -175,7 +175,7 @@ I am currently Director of Cloud Infrastructure at GenCoin where I am leading te
 title: Md. Motahar Mahtab
 
 # Name pronunciation (optional)
-# name_pronunciation: Md. Motahar Mahtab
+name_pronunciation: Md. Motahar Mahtab
 
 # Full name (for SEO)
 first_name: Md. Motahar
