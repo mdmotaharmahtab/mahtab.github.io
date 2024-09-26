@@ -11,6 +11,7 @@ weight: 20
 
 title: Experience
 subtitle:
+type: experience
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
